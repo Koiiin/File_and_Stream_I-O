@@ -24,7 +24,7 @@ Bảng tổng hợp các công việc và kết quả tự đánh giá:
 
 ## Chi Tiết Các Task
 
-### Task 1: Đọc và ghi file cơ bản
+## Task 1: Đọc và ghi file cơ bản
 
 *   **Mục đích:** Chương trình cho phép người dùng:
     *   Mở tệp văn bản (.txt), đọc nội dung và hiển thị trong hộp văn bản (RichTextBox).
@@ -52,7 +52,7 @@ Bảng tổng hợp các công việc và kết quả tự đánh giá:
     3.  Người dùng có thể chỉnh sửa nội dung.
     4.  Nhấn `Write File`, đặt tên tệp và lưu nội dung vào tệp .txt.
 
-### Task 2: Đọc thông tin tập tin
+## Task 2: Đọc thông tin tập tin
 
 *   **Tổng quan:** Chương trình cho phép người dùng chọn một tệp .txt, đọc nội dung và hiển thị các thông tin phân tích như:
     *   Tên tệp
@@ -89,7 +89,7 @@ Bảng tổng hợp các công việc và kết quả tự đánh giá:
         *   Nội dung được hiển thị trong `RichTextBox`.
         *   Các thông tin về tệp (tên, đường dẫn, số ký tự, từ, dòng) được cập nhật vào `TextBox`.
 
-### Task 3: Đọc và ghi file (Mở rộng)
+## Task 3: Đọc và ghi file (Mở rộng)
 
 *   **Tổng quan:** Chương trình có chức năng:
     *   Đọc các biểu thức toán học từ tệp .txt.
@@ -115,7 +115,7 @@ Bảng tổng hợp các công việc và kết quả tự đánh giá:
     4.  Kết quả hiển thị trong `richTextBox2`.
     5.  Người dùng có thể lưu kết quả vào một tệp .txt.
 
-### Task 4: Làm việc với File/CSDL
+## Task 4: Làm việc với File/CSDL
 
 *   **Tổng quan:** Chương trình nhập thông tin sinh viên, hiển thị dữ liệu, và lưu dữ liệu vào file Excel bằng thư viện EPPlus.
 *   **Chức năng chính:**
@@ -158,7 +158,7 @@ Bảng tổng hợp các công việc và kết quả tự đánh giá:
             *   Duyệt ListView để ghi từng dòng vào file.
             *   Sử dụng EPPlus để ghi dữ liệu vào Excel.
 
-### Task 5: Duyệt thư mục
+## Task 5: Duyệt thư mục
 
 *   **Tổng quan:** Ứng dụng giúp duyệt thư mục và hiển thị danh sách tệp tin/thư mục trong thư mục đã chọn:
     *   Chọn thư mục → Hiển thị danh sách tệp tin & thư mục con.
