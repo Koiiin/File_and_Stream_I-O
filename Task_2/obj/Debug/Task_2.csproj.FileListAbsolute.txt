@@ -1,0 +1,10 @@
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\bin\Debug\Task_2.exe.config
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\bin\Debug\Task_2.exe
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\bin\Debug\Task_2.pdb
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.exe
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.pdb
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_2\obj\Debug\Task_2.Form2.resources

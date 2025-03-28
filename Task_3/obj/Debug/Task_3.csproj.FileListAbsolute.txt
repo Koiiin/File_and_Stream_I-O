@@ -1,0 +1,10 @@
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\bin\Debug\Task_3.exe.config
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\bin\Debug\Task_3.exe
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\bin\Debug\Task_3.pdb
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.csproj.GenerateResource.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.exe
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.pdb
+D:\UIT\NT106\Lab_2\NT106-Lab-2\Task_3\obj\Debug\Task_3.Form3.resources
